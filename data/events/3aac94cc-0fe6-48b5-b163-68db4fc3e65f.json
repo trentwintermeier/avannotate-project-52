@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6ad311c2-6005-4d8c-b75a-9558110e0d6e": {
+      "label": "The Speed of Darkness Reading",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/617.mp3",
+      "duration": 2792
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Speed of Darkness Reading",
+  "created_at": "2025-07-18T15:39:53.253Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-07-18T15:39:53.253Z",
+  "updated_by": "trentwintermeier"
+}
