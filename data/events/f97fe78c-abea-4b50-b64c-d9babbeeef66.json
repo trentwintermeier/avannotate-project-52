@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "28d776ca-87d8-49b8-aa94-c37472e6d471": {
+      "label": "AV File 3",
+      "file_url": "https://hrc.contentdm.oclc.org/digital/iiif/p15878coll83/618/full/full/0/default.jpg",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-18T15:43:54.173Z",
+  "created_by": "trentwintermeier",
+  "item_type": "Audio",
+  "label": "Interview with Al Hirschfeld, #1-2",
+  "updated_at": "2025-07-18T15:43:54.173Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+}

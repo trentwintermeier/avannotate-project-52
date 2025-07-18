@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7d81eeb6-eeab-4eec-a09c-e6accf6b5445": {
+      "label": "AV File 1",
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/617.mp3",
+      "duration": 2795
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-18T15:43:54.172Z",
+  "created_by": "trentwintermeier",
+  "item_type": "Audio",
+  "label": "Interview with Al Hirschfeld, #1-2",
+  "updated_at": "2025-07-18T15:43:54.172Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+}
