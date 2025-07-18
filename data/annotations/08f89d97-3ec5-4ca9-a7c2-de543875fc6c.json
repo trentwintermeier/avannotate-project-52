@@ -24,6 +24,38 @@
         }
       ],
       "uuid": "d46111c4-ca23-4e67-bcb3-1fb48f069a42"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I made this annotation in "
+            },
+            {
+              "text": "AVAnnotate",
+              "bold": true
+            },
+            {
+              "text": ". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Me",
+          "category": "Interviewer"
+        },
+        {
+          "tag": "Wind",
+          "category": "Environment"
+        }
+      ],
+      "uuid": "00b491fe-f87c-4f7c-aa9b-235f7d41fe12"
     }
   ],
   "set": "Default",
