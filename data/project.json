@@ -1,1 +1,92 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"trentwintermeier","avatar_url":"https://avatars.githubusercontent.com/u/112954339?v=4","admin":true}],"project":{"github_org":"trentwintermeier","is_private":false,"title":"AVAnnotate Test Project","description":"This is for an AVAnnotate workshop. ","language":"en","slug":"avannotate-project-52","creator":"trentwintermeier","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Interviewee","color":"#ADFFD9"},{"category":"Interviewer","color":"#ADFEFF"},{"category":"Environment","color":"#99E6FF"}],"tags":[{"tag":"Person 1","category":"Interviewee"},{"tag":"Person 2","category":"Interviewee"},{"tag":"Me","category":"Interviewer"},{"tag":"Wind","category":"Environment"},{"tag":"Noise","category":"Environment"},{"category":"Environment","tag":"Car"}]},"created_at":"2025-07-18T15:20:42.108Z","updated_at":"2025-07-18T16:02:25.615Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"aa025774-92be-4f13-bc27-1e0ff0586edc":{"content":[],"created_at":"2025-07-18T15:20:42.133Z","created_by":"trentwintermeier","title":"AVAnnotate Test Project","updated_at":"2025-07-18T15:20:42.133Z","updated_by":"trentwintermeier","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["aa025774-92be-4f13-bc27-1e0ff0586edc"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "AVAnnotate Test Project",
+    "description": "This is for an AVAnnotate workshop. ",
+    "language": "en",
+    "slug": "avannotate-project-52",
+    "creator": "trentwintermeier",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Interviewee",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Interviewer",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Environment",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Person 1",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Person 2",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Me",
+          "category": "Interviewer"
+        },
+        {
+          "tag": "Wind",
+          "category": "Environment"
+        },
+        {
+          "tag": "Noise",
+          "category": "Environment"
+        },
+        {
+          "category": "Environment",
+          "tag": "Car"
+        }
+      ]
+    },
+    "created_at": "2025-07-18T15:20:42.108Z",
+    "updated_at": "2025-07-18T16:03:56.060Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "aa025774-92be-4f13-bc27-1e0ff0586edc": {
+      "content": [],
+      "created_at": "2025-07-18T15:20:42.133Z",
+      "created_by": "trentwintermeier",
+      "title": "AVAnnotate Test Project",
+      "updated_at": "2025-07-18T15:20:42.133Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "aa025774-92be-4f13-bc27-1e0ff0586edc"
+  ]
+}
