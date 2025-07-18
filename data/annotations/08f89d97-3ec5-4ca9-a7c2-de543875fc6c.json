@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 70,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is my first annotation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Person 1",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Me",
+          "category": "Interviewer"
+        }
+      ],
+      "uuid": "d46111c4-ca23-4e67-bcb3-1fb48f069a42"
+    }
+  ],
   "set": "Default",
   "event_id": "3aac94cc-0fe6-48b5-b163-68db4fc3e65f",
   "source_id": "6ad311c2-6005-4d8c-b75a-9558110e0d6e"
